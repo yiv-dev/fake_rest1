@@ -1,8 +1,22 @@
 {
-  "posts": [
+  "users": [
     {
-      "id": 1,
-      "title": "hello"
+        "id": 1,
+        "name": "John",
+        "email": "john@mail.com",
+        "age": 18
+    },
+    {
+        "id": 2,
+        "name": "Peter",
+        "email": "peter@mail.com",
+        "age": 22
+    },
+    {
+        "id": 3,
+        "name": "Lisa",
+        "email": "lisa@test.json.mail.com",
+        "age": 41
     }
   ],
   "profile": {
